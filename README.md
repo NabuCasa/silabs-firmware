@@ -24,6 +24,7 @@ implementation.
 
   * 6.9.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-6.9.1.0.pdf))
   * 6.9.2.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-6.9.2.0.pdf))
+  * 6.10.3.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-6.10.3.0.pdf))
 
 There are firmwares for two different Silicon Labs EFR32MG21 modules available.
 Depending on HW version, the following must be used:
