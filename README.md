@@ -48,4 +48,4 @@ Version 6.9.2.0 and newer have been compiled with the following EmberZNet config
 | EMBER_PACKET_BUFFER_COUNT        |     128 |
 | EMBER_NEIGHBOR_TABLE_SIZE        |      26 |
 | EMBER_ADDRESS_TABLE_SIZE         |      32 |
-
+| EMBER_SOURCE_ROUTE_TABLE_SIZE    |     200 |
