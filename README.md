@@ -49,3 +49,21 @@ Version 6.9.2.0 and newer have been compiled with the following EmberZNet config
 | EMBER_NEIGHBOR_TABLE_SIZE        |      26 |
 | EMBER_ADDRESS_TABLE_SIZE         |      32 |
 | EMBER_SOURCE_ROUTE_TABLE_SIZE    |     200 |
+
+## RCP Multi-PAN
+
+The RCPMultiPAN directory contains firmwares to run Silicon Labs multiprotcol
+stack (rcp-uart-802154). The Silicon Labs EFR32 chip acts as the RCP (Radio
+Co-Processor) and offers support for multiple protocols (multiple 802.15.4
+PANs).
+
+For more details, see [Silicon Labs AN1333: Running Zigbee, OpenThread, and
+Bluetooth Concurrently on a Linux Host with
+a Multiprotocol RCP](https://www.silabs.com/documents/public/application-notes/an1333-concurrent-protocols-with-802-15-4-rcp.pdf).
+
+  * 4.0.0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.0.0.pdf))/
+
+Note: The release notes are specific to OpenThread (and versioned according to
+its release version). However, it covers the Multi-PAN firmware, which uses
+the Gecko SDK version number.
+
