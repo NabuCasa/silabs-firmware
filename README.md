@@ -62,6 +62,7 @@ Bluetooth Concurrently on a Linux Host with
 a Multiprotocol RCP](https://www.silabs.com/documents/public/application-notes/an1333-concurrent-protocols-with-802-15-4-rcp.pdf).
 
   * 4.0.0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.0.0.pdf))/
+  * 4.0.1 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.1.0.pdf))/
 
 Note: The release notes are specific to OpenThread (and versioned according to
 its release version). However, it covers the Multi-PAN firmware, which uses
