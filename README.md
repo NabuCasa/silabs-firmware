@@ -50,6 +50,19 @@ Version 6.9.2.0 and newer have been compiled with the following EmberZNet config
 | EMBER_ADDRESS_TABLE_SIZE         |      32 |
 | EMBER_SOURCE_ROUTE_TABLE_SIZE    |     200 |
 
+## OpenThread RCP
+
+The OpenThreadRCP directory contains firmares which implement the OpenThread
+Radio Co-Processor (RCP) protocol through Spinel. The firmwares are largely
+compatible with the upstream OpenThread Core and the Border Router.
+
+For more details see [AN1256: Using the Silicon Labs RCP with the
+OpenThread Border
+Router](https://www.silabs.com/documents/public/application-notes/an1256-using-sl-rcp-with-openthread-border-router.pdf).
+
+  * SL-OPENTHREAD/2.0.2.0_GitHub-3b79cb0d0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.2.0.pdf))/
+
+
 ## RCP Multi-PAN
 
 The RCPMultiPAN directory contains firmwares to run Silicon Labs multiprotcol
