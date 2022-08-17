@@ -1,4 +1,4 @@
-# Silicon Labs firmware for Yellow
+# Silicon Labs firmware for Yellow and SkyConnect
 
 This repository contains firmware for products made by Nabu Casa
 which contain Silicon Labs hardware.
@@ -25,12 +25,15 @@ implementation.
   * 6.9.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-6.9.1.0.pdf))
   * 6.9.2.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-6.9.2.0.pdf))
   * 6.10.3.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-6.10.3.0.pdf))
+  * 7.0.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.0.1.0.pdf))
+  * 7.0.2.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.0.2.0.pdf))
+  * 7.1.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.1.1.0.pdf))
 
 There are firmwares for two different Silicon Labs EFR32MG21 modules available.
 Depending on HW version, the following must be used:
 
- * MGM210PA32JIA2 (Yellow v1.1 and later)
- * MGM210PB32JIA2 (Amber v1.0 and earlier)
+ * MGM210PA32JIA2 (Yellow v1.1 and later, PA32)
+ * MGM210PB32JIA2 (Amber v1.0 and earlier, PB32)
 
 All firmware use  UART as communication interface with the following
 configuration:
@@ -77,6 +80,8 @@ a Multiprotocol RCP](https://www.silabs.com/documents/public/application-notes/a
   * 4.0.0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.0.0.pdf))/
   * 4.0.1 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.1.0.pdf))/
   * 4.0.2 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.2.0.pdf))/
+  * 4.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.1.0.0.pdf))/
+  * 4.1.1 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.1.1.0.pdf))/
 
 Note: The release notes are specific to OpenThread (and versioned according to
 its release version). However, it covers the Multi-PAN firmware, which uses
