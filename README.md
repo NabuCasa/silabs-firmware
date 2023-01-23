@@ -10,7 +10,7 @@ a new firmware:
 
 ```
 docker exec -it homeassistant /bin/bash
-pip install silabs-flasher gpiod
+pip install "silabs-flasher[gpio]"
 
 curl -O https://github.com/NabuCasa/silabs-firmware/raw/main/EmberZNet/NabuCasa_EZSP_v6.9.2.0_PA32_ncp-uart-hw_115200.gbl
 silabs-flasher --device=/dev/ttyAMA1 flash --cm4-gpio-reset --firmware NabuCasa_EZSP_v6.9.2.0_PA32_ncp-uart-hw_115200.gbl
