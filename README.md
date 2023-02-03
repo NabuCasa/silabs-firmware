@@ -29,6 +29,7 @@ implementation.
   * 7.0.2.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.0.2.0.pdf))
   * 7.1.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.1.1.0.pdf))
   * 7.1.3.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.1.3.0.pdf))
+  * 7.1.4.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.1.4.0.pdf))
 
 There are firmwares for two different Silicon Labs EFR32MG21 modules available.
 Depending on HW version, the following must be used:
@@ -84,6 +85,7 @@ a Multiprotocol RCP](https://www.silabs.com/documents/public/application-notes/a
   * 4.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.1.0.0.pdf))
   * 4.1.1 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.1.1.0.pdf)/
   * 4.1.3 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.1.3.0.pdf))
+  * 4.1.4 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.1.4.0.pdf))
   * 4.2.0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.0.0.pdf))
 
 Note: The release notes are specific to OpenThread (and versioned according to
