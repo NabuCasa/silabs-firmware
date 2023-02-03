@@ -1,0 +1,16 @@
+contact_links:
+  - name: Report incorrect or missing information on our documentation
+    url: https://github.com/home-assistant/home-assistant.io/issues
+    about: Our documentation has its own issue tracker. Please report issues with the website there.
+
+  - name: Report incorrect or missing information on our developer documentation
+    url: https://github.com/home-assistant/developers.home-assistant/issues
+    about: Our developer documentation has its own issue tracker. Please report issues with the website there.
+
+  - name: I have a question or need support
+    url: https://www.home-assistant.io/help
+    about: We use GitHub for tracking bugs, check our website for resources on getting help.
+
+  - name: I'm unsure where to go?
+    url: https://www.home-assistant.io/join-chat
+    about: If you are unsure where to go, then joining our chat is recommended; Just ask!
