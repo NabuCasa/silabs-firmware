@@ -1,3 +1,4 @@
+blank_issues_enabled: true
 contact_links:
   - name: Report incorrect or missing information on our documentation
     url: https://github.com/home-assistant/home-assistant.io/issues
