@@ -69,6 +69,7 @@ OpenThread Border
 Router](https://www.silabs.com/documents/public/application-notes/an1256-using-sl-rcp-with-openthread-border-router.pdf).
 
   * SL-OPENTHREAD/2.0.2.0_GitHub-3b79cb0d0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.2.0.pdf))/
+  * SL-OPENTHREAD/2.2.2.0_GitHub-91fa1f455 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.2.0.pdf))/
 
 
 ## RCP Multi-PAN
