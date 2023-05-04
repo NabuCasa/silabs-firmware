@@ -23,6 +23,7 @@ implementation.
   * 7.2.0.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.2.0.0.pdf))
   * 7.2.1.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.2.1.0.pdf))
   * 7.2.2.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.2.2.0.pdf))
+  * 7.2.3.0 ([release notes](https://www.silabs.com/documents/public/release-notes/emberznet-release-notes-7.2.3.0.pdf))
 
 Firmware for Home Assistant Yellow (v1.1 and later, MGM210PA32JIA2 based) and
 Home Assistant SkyConnect (EFR32MG21A020F512IM32 based) are available.
@@ -46,6 +47,7 @@ Router](https://www.silabs.com/documents/public/application-notes/an1256-using-s
 
   * SL-OPENTHREAD/2.0.2.0_GitHub-3b79cb0d0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.0.2.0.pdf))/
   * SL-OPENTHREAD/2.2.2.0_GitHub-91fa1f455 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.2.0.pdf))/
+  * SL-OPENTHREAD/2.2.3.0_GitHub-91fa1f455 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.3.0.pdf))/
 
 
 ## RCP Multi-PAN
@@ -69,6 +71,7 @@ a Multiprotocol RCP](https://www.silabs.com/documents/public/application-notes/a
   * 4.2.0 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.0.0.pdf))
   * 4.2.1 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.1.0.pdf))
   * 4.2.2 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.2.0.pdf))
+  * 4.2.3 ([release notes](https://www.silabs.com/documents/public/release-notes/open-thread-release-notes-2.2.3.0.pdf))
 
 Note: The release notes are specific to OpenThread (and versioned according to
 its release version). However, it covers the Multi-PAN firmware, which uses
