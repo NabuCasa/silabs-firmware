@@ -4,7 +4,7 @@ This repository contains firmware for products made by Nabu Casa
 which contain Silicon Labs hardware.
 
 To flash the firmware refer to the [Flash Silicon Labs radio firmware manually](https://github.com/NabuCasa/silabs-firmware/wiki/Flash-Silicon-Labs-radio-firmware-manually)
-wiki page.
+wiki page or use the [web flasher](https://skyconnect.home-assistant.io/firmware-update/).
 
 ## EmberZNet
 
