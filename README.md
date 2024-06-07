@@ -1,3 +1,9 @@
+> [!IMPORTANT]  
+> New firmwares are released straight from the [SiLabs Firmware Builder repository](https://github.com/NabuCasa/silabs-firmware-builder/releases).
+> This repository contains all past firmwares and will not receive future updates.
+
+---
+
 # Silicon Labs firmware for Yellow and SkyConnect
 
 This repository contains firmware for products made by Nabu Casa
